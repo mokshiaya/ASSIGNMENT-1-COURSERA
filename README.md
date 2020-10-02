@@ -1,5 +1,4 @@
 # ASSIGNMENT-1-COURSERA
-<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
